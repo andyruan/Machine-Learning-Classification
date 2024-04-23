@@ -24,7 +24,7 @@ The dataset for this project comprises geo-referenced, labeled images from Lands
  * Number of land-cover classes: 4
 
 <img width="636" alt="image" src="https://github.com/LocNguyenTKP/Landsat_Supervised-Machine-Learning-Classification/assets/66542803/42cc3689-3c2d-434c-88d2-d26df9d0b157">
-
+ 
 
 ## Dependencies
 Google Earth Engine: A platform that integrates a vast multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities at https://code.earthengine.google.com/ .
